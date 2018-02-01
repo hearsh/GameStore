@@ -1,5 +1,5 @@
 # GameStore
-## Contrubutors
+## Contriubutors
 - Harshavardhan Poojary
 - Ankur Nadda
 - Hearsh Mahidharia
